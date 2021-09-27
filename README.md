@@ -13,7 +13,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/daziyuel/Dzul/blob/main/images/WhatsApp%20Image%202021-07-27%20at%209.20.05%20AM.jpeg)
+![alt text](https://github.com/daziyuel/Dzul/blob/main/images/black.png)
 
 <!-- Add your details -->
 
