@@ -13,7 +13,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/daziyuel/Dzul/blob/main/images/black.jpeg)
+![alt text](https://github.com/daziyuel/Dzul/blob/main/images/black.png)
 
 <!-- Add your details -->
 
